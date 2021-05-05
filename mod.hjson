@@ -1,0 +1,9 @@
+name: "hersy"
+displayName: "Heresy Sprites"
+author: MrDuck557
+description: "Texture pack that makes some blocks look cursed"
+version: "1.0"
+minGameVersion: "126.1"
+dependencies: []
+hidden: true
+repo: MrDuck557/HersySprites
