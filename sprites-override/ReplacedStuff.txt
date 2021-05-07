@@ -1,0 +1,8 @@
+Mech pump --> Pneu Pump
+Router --> Router Void
+Airblast --> Thermal Drill
+Laser --> Rotary Drill
+Rotary Pump --> Laser Pump
+Power Source --> Power Source Void
+Duo --> Duo Void
+Copper Wall --> Wall Void
