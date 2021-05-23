@@ -6,3 +6,4 @@ Rotary Pump --> Laser Pump
 Power Source --> Power Source Void
 Duo --> Duo Void
 Copper Wall --> Wall Void
+Eclipse --> Duoclipse
