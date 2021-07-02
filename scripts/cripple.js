@@ -4,3 +4,8 @@ Vars.content.units().each(e => {
     w.mirror = false;
   });
 });
+
+Blocks.spawn.itemDrop = Items.surgeAlloy;
+Events.on(ClientLoadEvent, () => {
+  Items.surgeAlloy.fullIcon = UnitTypes.crawler.fullIcon;
+});
