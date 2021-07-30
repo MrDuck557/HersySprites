@@ -10,4 +10,4 @@ Events.on(ClientLoadEvent, () => {
   Items.surgeAlloy.fullIcon = UnitTypes.crawler.fullIcon;
 });
 
-Blocks.meltdown.heatColor = Color.valueOf("a74a4d");
+Blocks.meltdown.heatColor = Color.valueOf("cf7275");
