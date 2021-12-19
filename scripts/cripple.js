@@ -11,3 +11,4 @@ Events.on(ClientLoadEvent, () => {
 });
 
 Blocks.meltdown.heatColor = Color.valueOf("cf7275");
+Blocks.laserDrill.drawRim = true;
